@@ -20,32 +20,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Programadores Defensores do universo ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esta imagem captura a essência da defesa digital em uma escala intergaláctica, com os programadores sendo os guerreiros da era da informação, protegendo nosso mundo de ameaças invisíveis.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini 2.5 flash (Google)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+No primeiro momento, fiz um brainstorm, buscando algo diferente, porém, simples;
+Em seguida, criei o prompt e solicite a IA para que criasse a imagem. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A imagem ficou além das expectativas.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
+## Descrição da Imagem 
+Esta imagem super realista retrata três programadores, vestindo trajes espaciais futuristas e táticos, em um cenário de espaço profundo. Eles estão posicionados em frente a um planeta Terra vibrante, que é cercado por um escudo de energia azul-esverdeado translúcido, pulsando com dados digitais e linhas de código.
 
-### Exemplos e Insigths
+No centro, um programador masculino com uma expressão focada e determinada está segurando uma arma de energia avançada, que emite um feixe de luz azul brilhante. Seu rosto é adornado por uma interface de usuário holográfica projetada diretamente de seu capacete, exibindo linhas de código, gráficos e ícones de segurança cibernética.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+À sua esquerda, uma programadora feminina está flutuando, digitando furiosamente em um teclado holográfico que paira diante dela, conectado a um console elegante e futurista. À direita do programador central, outra programadora feminina está igualmente imersa em seu trabalho, com a tela holográfica à sua frente exibindo algoritmos complexos e firewalls digitais. Um feixe de energia, similar ao da arma, parece emanar de seu teclado, indicando uma ofensiva cibernética.
 
-## Links Interessantes
+Ao redor deles, o espaço está repleto de asteroides e, mais proeminentemente, por numerosos vírus alienígenas de aparência orgânica e ameaçadora, com tentáculos e cores avermelhadas, que se aproximam do escudo protetor da Terra. Ao fundo, uma lua distante pode ser vista.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+A iluminação na imagem é dramática, com o brilho da Terra, dos escudos de energia e das interfaces holográficas contrastando com a escuridão do espaço, criando uma sensação de urgência e heroísmo. Os trajes espaciais são detalhados com luzes LED, painéis e emblemas, adicionando um toque de alta tecnologia à cena
